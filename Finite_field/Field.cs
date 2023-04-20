@@ -48,12 +48,6 @@ public class Field
             string coeffs = string.Join("", element.polynom.coeff);
             string coeffs_rev = new string(coeffs.Reverse().ToArray());
             int coeff = Convert.ToInt32(coeffs_rev, 2);
-            // var semen = new byte[n/8] ;
-            // for (int i = 0; i < n / 8; i++) сперва я делал так, но мне доказали ошибочность, решил оставить 
-            // {
-            //     semen[i] = Convert.ToByte(coeffs.Substring(i*8, 8),2);
-            // }
-
             return BitConverter.GetBytes(coeff);
         }
         else
