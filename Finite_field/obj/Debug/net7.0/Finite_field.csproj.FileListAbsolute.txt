@@ -1,0 +1,15 @@
+/Users/azat/Desktop/Finite_field/Finite_field/bin/Debug/net7.0/Finite_field
+/Users/azat/Desktop/Finite_field/Finite_field/bin/Debug/net7.0/Finite_field.deps.json
+/Users/azat/Desktop/Finite_field/Finite_field/bin/Debug/net7.0/Finite_field.runtimeconfig.json
+/Users/azat/Desktop/Finite_field/Finite_field/bin/Debug/net7.0/Finite_field.dll
+/Users/azat/Desktop/Finite_field/Finite_field/bin/Debug/net7.0/Finite_field.pdb
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/Finite_field.csproj.AssemblyReference.cache
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/Finite_field.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/Finite_field.AssemblyInfoInputs.cache
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/Finite_field.AssemblyInfo.cs
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/Finite_field.csproj.CoreCompileInputs.cache
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/Finite_field.dll
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/refint/Finite_field.dll
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/Finite_field.pdb
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/Finite_field.genruntimeconfig.cache
+/Users/azat/Desktop/Finite_field/Finite_field/obj/Debug/net7.0/ref/Finite_field.dll

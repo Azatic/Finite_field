@@ -68,7 +68,7 @@ public class Polynom
 
         for (var i = 0; i < quotient.Length; i++)
         {
-            var coefficient = remainder[remainder.deg - i] / divisor.coeff.Last();
+            var coefficient = (remainder[remainder.deg - i] * MyMath.GetInverseElement(divisor.coeff.Last(),dividend.module)) % dividend.module;
             quotient[quotient.Length - 1 - i] = coefficient;
             for (var j = 0; j < divisor.coeff.Length; j++)
             {
